@@ -1,0 +1,6 @@
+const  natalia = {
+
+name: 
+
+};
+
